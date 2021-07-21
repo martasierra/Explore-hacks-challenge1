@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body{
+    background-color:black
+}
+div#misvg{
+    position: absolute;
+    min-width: 98%;
+    left:0px;
+    top:6px;
+}
+
+.areas{
+    opacity:0;
+}
+.areas:hover{
+    opacity: 1;
+}
+
+p{
+    color:white;
+    font-family: 'Syne Mono', monospace;
+    font-size: 20px;
+}
+div#maintext{
+    position:absolute;
+    max-width: 900px;
+    top:240px;
+    left:50px;
+}
+div#joinform{
+    position:absolute;
+    top:340px;
+    left:50px;
+}
+label{
+    color:white;
+    font-family: 'Syne Mono', monospace;
+    font-size: 20px;
+}
+input#subbutton{
+    color:darkblue;
+    font-family: 'Syne Mono', monospace;
+    font-size: 20px; 
+}
+img#threepen{
+    position:absolute;
+    top:20px;
+    left:50px;
+}

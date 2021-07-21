@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body{
+    background-color:black
+}
+div#misvg{
+    position: absolute;
+    min-width: 98%;
+    left:0px;
+    top:6px;
+}
+
+.areas{
+    opacity:0;
+}
+.areas:hover{
+    opacity: 1;
+}
+
+div#cons{
+    position: absolute;
+    top:40px;
+    left:40px;
+}
+
